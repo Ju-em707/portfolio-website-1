@@ -451,7 +451,7 @@ footer {
     align-items: center;
 }
 
-.nav-links a:hover {
+footer .nav-links a:hover {
     text-decoration: none;
 }
 

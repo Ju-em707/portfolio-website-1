@@ -6,11 +6,19 @@
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://ju-emcorral.netlify.app/projects</loc>
+    <loc>https://ju-emcorral.netlify.app/#about</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://ju-emcorral.netlify.app/contact</loc>
+    <loc>https://ju-emcorral.netlify.app/#experience</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://ju-emcorral.netlify.app/#projects</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://ju-emcorral.netlify.app/#contact</loc>
     <priority>0.64</priority>
   </url>
 </urlset>

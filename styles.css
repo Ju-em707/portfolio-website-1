@@ -308,6 +308,7 @@ section {
 }
 
 .details-container {
+    align-content: center;
     padding: 1.5rem;
     flex: 1;
     background: white;
